@@ -1,0 +1,6 @@
+D:\congnghenet\BT1_bai6\DTO_Quanly\bin\Debug\DTO_Quanly.dll
+D:\congnghenet\BT1_bai6\DTO_Quanly\bin\Debug\DTO_Quanly.pdb
+D:\congnghenet\BT1_bai6\DTO_Quanly\obj\Debug\DTO_Quanly.csproj.AssemblyReference.cache
+D:\congnghenet\BT1_bai6\DTO_Quanly\obj\Debug\DTO_Quanly.csproj.CoreCompileInputs.cache
+D:\congnghenet\BT1_bai6\DTO_Quanly\obj\Debug\DTO_Quanly.dll
+D:\congnghenet\BT1_bai6\DTO_Quanly\obj\Debug\DTO_Quanly.pdb

@@ -1,0 +1,11 @@
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\BUS_Quanly.dll
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\BUS_Quanly.pdb
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\DAL_Quanly.dll
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\DTO_Quanly.dll
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\DAL_Quanly.pdb
+D:\congnghenet\BT1_bai6\BUS_Quanly\bin\Debug\DTO_Quanly.pdb
+D:\congnghenet\BT1_bai6\BUS_Quanly\obj\Debug\BUS_Quanly.csproj.AssemblyReference.cache
+D:\congnghenet\BT1_bai6\BUS_Quanly\obj\Debug\BUS_Quanly.csproj.CoreCompileInputs.cache
+D:\congnghenet\BT1_bai6\BUS_Quanly\obj\Debug\BUS_Quanly.csproj.CopyComplete
+D:\congnghenet\BT1_bai6\BUS_Quanly\obj\Debug\BUS_Quanly.dll
+D:\congnghenet\BT1_bai6\BUS_Quanly\obj\Debug\BUS_Quanly.pdb
